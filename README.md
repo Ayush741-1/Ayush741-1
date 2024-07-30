@@ -1,4 +1,4 @@
-### Hello world, I'm Ayush  👋 
+### Hello world, I'm Ayush Sharma  👋 
 
 -----
 
