@@ -83,7 +83,7 @@ const Ayush = {
 </div>
 <div  align="center">
  
-<a href="https://ayush741-1.github.io/Mine-Portfolio/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush741-1&repo=Ayush741-1&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://ayush741-1.github.io/Mine-Portfolio/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush741-1&repo=Mine-Portfolio&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://ayush741-1.github.io/Weather-forecast-App/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=weather-app&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://ayush741-1.github.io/To-Do-List/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=To-Do-List&show_icons=true&theme=great-gatsby"></a>
 <a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a>
